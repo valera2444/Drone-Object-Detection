@@ -1,3 +1,21 @@
-{'map': tensor(0.0436), 'map_50': tensor(0.1254), 'map_75': tensor(0.0269), 'map_small': tensor(0.1099), 'map_medium': tensor(0.0961), 'map_large': tensor(0.), 'mar_1': tensor(0.0097), 'mar_10': tensor(0.0595), 'mar_100': tensor(0.0744), 'mar_small': tensor(0.1308), 'mar_medium': tensor(0.1107), 'mar_large': tensor(0.), 'map_per_class': tensor(-1.), 'mar_100_per_class': tensor(-1.), 'classes': tensor([ 0,  1,  2,  3,  4,  5,  6,  7,  8, 10], dtype=torch.int32)}
-{'map': tensor(0.2512), 'map_50': tensor(0.4177), 'map_75': tensor(0.2621), 'map_small': tensor(0.2457), 'map_medium': tensor(0.3898), 'map_large': tensor(0.9126), 'mar_1': tensor(0.0840), 'mar_10': tensor(0.2651), 'mar_100': tensor(0.3231), 'mar_small': tensor(0.2973), 'mar_medium': tensor(0.4567), 'mar_large': tensor(0.9250), 'map_per_class': tensor(-1.), 'mar_100_per_class': tensor(-1.), 'classes': tensor([ 1,  2,  3,  4,  5,  7,  8, 10], dtype=torch.int32)}
-{'map': tensor(0.0704), 'map_50': tensor(0.1568), 'map_75': tensor(0.0374), 'map_small': tensor(0.0487), 'map_medium': tensor(0.1966), 'map_large': tensor(0.4500), 'mar_1': tensor(0.0160), 'mar_10': tensor(0.1325), 'mar_100': tensor(0.1498), 'mar_small': tensor(0.0642), 'mar_medium': tensor(0.2824), 'mar_large': tensor(0.4500), 'map_per_class': tensor(-1.), 'mar_100_per_class': tensor(-1.), 'classes': tensor([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10], dtype=torch.int32)}
+FI:
+avgerage map 50-95: 0.18487373202804178
+avgerage map 50: 0.31711005738803316
+avgerage map 75: 0.1832960774821397
+avgerage map small: 0.1381776255020595
+avgerage map medium: 0.28846802131805804
+avgerage map large: 0.6164055537760801
+SAHI:
+avgerage map 50-95: 0.17207809123651216
+avgerage map 50: 0.2965781146691549
+avgerage map 75: 0.1692089307638566
+avgerage map small: 0.12944524142314012
+avgerage map medium: 0.2687230799599847
+avgerage map large: 0.5907727121751501
+NOT SAHI:
+avgerage map 50-95: 0.16120104313077097
+avgerage map 50: 0.2711802830631729
+avgerage map 75: 0.16258285914025716
+avgerage map small: 0.1072829260834201
+avgerage map medium: 0.2572973475635396
+avgerage map large: 0.6215433482898445
